@@ -1,7 +1,7 @@
 # php-skeleton-app
 My personal php skeleton general purpose app
 
-We will use the better repos to build better software.
+We will use the better repos to build better software. Requires PHP >= 7.2
 
 So, what we will use?
 
@@ -18,6 +18,15 @@ So, what we will use?
 - php-cs-fixer, for show/fix code errors
 - debugbar, to help you debug what is happening in the application
 - monolog, for generating logs
-- phpunit, to make unit tests
+- phpunit, to make unit tests,
+- carbon, for date manipulation
+- dompdf, to convert HTML to PDF
+- goutte, as a web scrapper when we always need
+- php-ml, machine learning library
+- phpdotenv, to read and work with .env files, $_ENV and $_SERVER
+- intervention image, to manipulate images easy
+- phpmailer, best ways to send emails with php
+- guzzle, for http client
+- league csv, to work with csv files
 
 All this things for you to create a good, maintainable code. It will be a kind of a Framework, but completely decoupled.

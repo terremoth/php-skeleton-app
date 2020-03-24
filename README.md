@@ -29,4 +29,6 @@ So, what we will use?
 - guzzle, for http client
 - league csv, to work with csv files
 
-All this things for you to create a good, maintainable code. It will be a kind of a Framework, but completely decoupled.
+All this things for you to create a good, maintainable code. It will be a kind of a Framework, but completely decoupled. Has ~30mb of files in vendor dir.
+
+How to use this repo? Just git clone it to use the composer.json file, that is what really matters.
